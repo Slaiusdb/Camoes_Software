@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj": {}
+    "D:\\Curso Software Developer\\Módulo 5 - programação de computadores - estruturada\\Exercícios\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj": {
+    "D:\\Curso Software Developer\\Módulo 5 - programação de computadores - estruturada\\Exercícios\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj",
+        "projectUniqueName": "D:\\Curso Software Developer\\Módulo 5 - programação de computadores - estruturada\\Exercícios\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj",
         "projectName": "Contabancaria",
-        "projectPath": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj",
+        "projectPath": "D:\\Curso Software Developer\\Módulo 5 - programação de computadores - estruturada\\Exercícios\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj",
         "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\obj\\",
+        "outputPath": "D:\\Curso Software Developer\\Módulo 5 - programação de computadores - estruturada\\Exercícios\\Contabancaria\\Contabancaria\\Contabancaria\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
