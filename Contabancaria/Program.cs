@@ -41,6 +41,8 @@
 
             cb.Titular = "Pedro"; // O Pedro Alvares cabral não se compara a Luís Vaz de Camões
            Console.WriteLine(cb);
+
         }
+        
     }
 }
