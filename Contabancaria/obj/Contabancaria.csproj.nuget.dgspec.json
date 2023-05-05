@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesae\\Desktop\\Projetos\\Contabancaria\\Contabancaria\\Contabancaria.csproj": {}
+    "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesae\\Desktop\\Projetos\\Contabancaria\\Contabancaria\\Contabancaria.csproj": {
+    "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\Projetos\\Contabancaria\\Contabancaria\\Contabancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj",
         "projectName": "Contabancaria",
-        "projectPath": "C:\\Users\\Cesae\\Desktop\\Projetos\\Contabancaria\\Contabancaria\\Contabancaria.csproj",
+        "projectPath": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\Contabancaria.csproj",
         "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesae\\Desktop\\Projetos\\Contabancaria\\Contabancaria\\obj\\",
+        "outputPath": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\Camoes_Software\\Contabancaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
